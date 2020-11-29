@@ -31,21 +31,25 @@ Let the Acrylic paint dry fully before drilling as it makes a lot of dust. Globs
 
 Ideally the holes made by the drill bit will be only just larger than the LEDs, so they are held in place easily when glueing. The exact drill diameter will depend on the material and LED sizes used. We standardised on 5mm straw hat LEDs for all our designs and a 5.5mm drill.
 
-Wiring LEDs one by one is impossibly hard. When drilling, consider how holes within areas of the same colour can be filled with continuous chains of LEDs. Check the spacing of the LEDs in the chains you are using, and make sure the holes are not too far apart for them to reach. Any separate chains will each need their own connection to regulated power, which means more wiring work. In some cases we've saved effort by leaving a spare light at the back between two separated areas of the same colour, rather than unnecessarily splitting and splicing two chains. 
+Wiring LEDs one by one is impossibly hard. When drilling, consider how holes within areas of the same colour can be filled with continuous chains of LEDs. Check the spacing of the LEDs in the chains you are using, and make sure the holes are not too far apart for them to reach. Any separate chains will each need their own connection to regulated power, which means more wiring work. In some cases we've saved effort by leaving a spare light at the back between two separated areas of the same colour, rather than unnecessarily splitting and splicing two chains.
 
 Take the visual effect into account when thinking where to drill the holes. The leds will act as bright point of coloured light to the viewer. Each bulb will cast a light radially from that point to illuminate the board. Walls will cast shadows if bulbs are not evenly distributed. Fewer well-placed LEDs can often look better.
 
-Drill 'freehand' with a cordless drill from the front of the design. It's not necessary to mark in advance. Use LEDs sparingly aiming at no more than 50 per design, a max current of around 1 amps total. 
+Drill 'freehand' with a cordless drill from the front of the design. It's not necessary to mark in advance. Use LEDs sparingly aiming at no more than 50 per design, a max current of around 1 amps total.
 
 ## Inserting
 
-Provided sets of battery-powered LED chains in every colour from which makers can crop the number needed. They will populate the drilled holes in each area with the correct colour LED chains and test-light the piece. Insert the furthest light from the battery first. When all the holes of that colour are filled, you can crop the chain leaving the LEDs in place. 
+<img src="../../images/battery_lights.jpg" style="height:250px">
 
-Cropping them should leave two wires suitable for later stripping and crimping. Cut the chains exactly between two LEDs, leaving a workable length of wire both sides. This makes sure that inserted chains can be wired from the most convenient end and that leftover chain also has enough wire to splice. 
+Provided sets of battery-powered LED chains in every colour from which makers can crop the number needed. They will populate the drilled holes in each area with the correct colour LED chains and test-light the piece. Insert the furthest light from the battery first. When all the holes of that colour are filled, you can crop the chain leaving the LEDs in place.
+
+Cropping them should leave two wires suitable for later stripping and crimping. Cut the chains exactly between two LEDs, leaving a workable length of wire both sides. This makes sure that inserted chains can be wired from the most convenient end and that leftover chain also has enough wire to splice.
 
 Sometimes there's not enough bulbs in one chain to complete a piece. Using up every chain fully first before starting on a new chain ensures chains are used evenly.
 
 ## Glueing
+
+<img src="../../images/led_insertion.jpg" style="height:250px">
 
 To fix LEDs permanently in place we use hot glue.
 
