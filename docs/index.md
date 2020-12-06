@@ -18,11 +18,19 @@ This repository has a summary of the standard approach to constructing and deplo
 
 # Build stages
 
-We have separated instructions into three sequential stages, **Crafting**, **Wiring** and **Powering**.
+We have separated instructions into three sequential stages:
+
+- **Crafting** - shaping, painting and adding LED chains to the tableau
+- **Wiring** - connecting the chains of LEDs to a static or animated circuit
+- **Powering** - rigging up multiple illuminations to a shared low-voltage power supply.
+
+Each stage is summarised below with links provided to detailed instructions.
 
 ## 1) Crafting
 
-First, during [crafting](build/crafting.md) the tableau is designed as vector art and sketched on a board. The baffles between coloured areas are cut and glued. Each area and its baffle-sides are painted to the colours of the design. Holes are drilled for the insertion of bulbs. Chains of LEDs with matching colours are hot-glued in place to fill each coloured area, with trailing wire strands left unconnected. See the [detailed crafting steps](build/crafting.md).
+First, during [crafting](build/crafting.md) the tableau is designed as vector art and sketched on a board. The baffles between coloured areas are cut and glued. Each area and its baffle-sides are painted to the colours of the design. Holes are drilled for the insertion of bulbs. Chains of LEDs with matching colours are hot-glued in place to fill each coloured area, with trailing wire strands left unconnected.
+
+See the [detailed crafting steps](build/crafting.md).
 
 ## 2) Wiring
 
@@ -32,19 +40,15 @@ Second, during [wiring](build/wiring.md) the trailing wires from glued LEDs are 
 - An **animated** circuit - a microcontroller switches the regulated voltage in a programmed sequence
 - An **addressable** circuit - a microcontroller sends messages to a chain of addressable LEDs.
 
-See the [detailed wiring steps](build/wiring.md).
+Once the circuit is complete, a fused pair of wires is attached to the circuit and crimped to two 6.3mm Male spade connectors for later connection to a safe 5V DC supply.
 
-Once the circuit is complete, a fused pair of wires is attached to the circuit and crimped to two 6.3mm Male spade connectors for later connection to a 5V supply.
+See the [detailed wiring steps](build/wiring.md).
 
 ## 3) Powering
 
 Finally, during [powering](build/powering.md) a suitable configuration of transformers and DC cabling is laid out to deliver the required 5V to every art piece.
 
-You can dive in to the detail of each stage by following the links in this list, or read on for more about our design philosophy.
-
-- [Crafting](build/crafting.md): Shaping and painting the tableau
-- [Wiring](build/wiring.md): Static or animated chains of LEDs
-- [Powering](build/powering.md): Providing power to one or hundreds
+See the [detailed crafting steps](build/crafting.md).
 
 # About the Approach
 
