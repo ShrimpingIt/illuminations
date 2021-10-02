@@ -34,13 +34,13 @@ See the [detailed crafting steps](build/crafting.md).
 
 ## 2) Wiring
 
-Second, during [wiring](build/wiring.md) the trailing wires from glued LEDs are connected back to one of three supporting circuits...
+Second, during [wiring](build/wiring.md) the trailing wires from hot-glued LEDs are connected back to one of three supporting circuits...
 
-- A **static** circuit- a fixed regulated voltage lighting all the bulbs
-- An **animated** circuit - a microcontroller switches the regulated voltage in a programmed sequence
-- An **addressable** circuit - a microcontroller sends messages to a chain of addressable LEDs.
+1. A **static** circuit- a fixed voltage permanently lighting all the coloured chains of a tableau
+2. An **animated** circuit - a microcontroller switches a fixed voltage to coloured chains in a programmed sequence
+3. An **addressable** circuit - a microcontroller sends messages to a fully-colour-controllable chain of LEDs.
 
-Once the circuit is complete, a fused pair of wires is attached to the circuit and crimped to two 6.3mm Male spade connectors for later connection to a safe 5V DC supply.
+Once the circuit is complete, a fused pair of wires is attached to the circuit and crimped to two 6.3mm Male spade connectors for later connection to a 5V DC supply.
 
 See the [detailed wiring steps](build/wiring.md).
 
